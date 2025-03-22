@@ -1,0 +1,22 @@
+body { 
+    font-family: Arial, sans-serif; 
+    margin: 20px; 
+}
+h1 {
+    font-size: 24px;
+}
+.section { 
+    margin-bottom: 20px; 
+}
+h2 {
+    cursor: pointer;
+    color: blue;
+}
+.topics { 
+    display: none; 
+    margin-top: 10px; 
+}
+.progress { 
+    font-weight: bold; 
+    margin-bottom: 10px; 
+}
